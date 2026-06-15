@@ -63,3 +63,5 @@ Validación de tipos de datos: Asegura que se ingresen únicamente letras donde 
 Bucle de persistencia (while True): Los menús y las entradas de datos se encuentran envueltos en bucles infinitos que se repiten de manera amigable hasta que el usuario ingrese una opción válida.
 
 Estructura try - except: Toda la interacción y los posibles errores inesperados de conversión de tipos se controlan mediante excepciones de Python (ValueError). Esto evita que la aplicación sufra cierres abruptos ante cualquier imprevisto técnico.
+
+Link a video: https://youtu.be/H_eZr1Nxg2Y
